@@ -1,0 +1,10 @@
+#inputVeld{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 300px;
+    height: 20px;
+    border-radius: 6px;
+}
